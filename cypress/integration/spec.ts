@@ -1,4 +1,4 @@
-it('loads examples', () => {
+it('contains hello message', () => {
   cy.visit('/');
-  cy.contains('Replace me with something relevant');
+  cy.contains('Hello');
 });
