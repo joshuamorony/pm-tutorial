@@ -2,4 +2,4 @@
 
 ## Project Management
 
-This is part of a tutorial for setting up a project management and Git workflow for Ionic developers. You can start the tutorial series [here](https://eliteionic.com/tutorials/simple-project-management-workflow-for-ionic-developers/).
+This is part of a tutorial for setting up a project management and Git workflow for Ionic developers. You can start the tutorial series [here](https://eliteionic.com/tutorials/simple-project-management-workflow-for-ionic-developers/)
